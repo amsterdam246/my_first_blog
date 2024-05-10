@@ -1,8 +1,13 @@
 {
     "editor.tokenColorCustomizations": {
-        "comments": "#521919",
+        "[Default Dark+]": {
+            "comments": "#323030",
+            "strings": "#93d38b",
+            "variables": "#a4a1a1"
+        },
         "strings": "#93d38b",
         "variables": "#ffffff",
+        "comments": "#521919",
         "textMateRules": []
     }
 }
