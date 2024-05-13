@@ -6,6 +6,6 @@ from . import views
 
 urlpatterns = [
     path('', views.app_homeview),
-    path('blogpost_inner', views.blogpost) # app specific urls
+  
 ]
 
