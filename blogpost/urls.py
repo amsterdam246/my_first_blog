@@ -5,7 +5,7 @@ from . import views
 # URLs that point to different functionalities within that app.
 
 urlpatterns = [
-    path('', views.app_homeview),
+    path('', views.post_list),
   
 ]
 

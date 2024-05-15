@@ -1,3 +1,9 @@
 blog/__pycache__/__init__.py
 blog/setting.py
-
+__pychache__
+blogpost/__pychache__/
+blogpost/__pycache__/
+blogpost/migrations/0001_initial.py
+blogpost/migrations/__pycache__/
+blogpost/__pycache__/__init__.cpython-312.pyc
+blogpost/__pycache__/ *
